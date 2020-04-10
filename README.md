@@ -5,6 +5,8 @@
 
 In this project, here defined and trained a DCGAN on a dataset of faces. The goal is to get a generator network to generate new images of faces that look as realistic as possible which are fake.
 
+<img src="image/facegan.png" border="1">
+
 ### Get the data
 
 #### The dataset that is used in this project will be found in this link: 
