@@ -1,6 +1,5 @@
-# DCGAN- Face Generation
-### Generate fake human faces using Generative Adversarial Network (GAN)
-
+# Generate fake human faces using Generative Adversarial Network (GAN)
+### CSE 465 Deep Learning (Spring 2020)
 
 
 In this project, here defined and trained a DCGAN on a dataset of faces. The goal is to get a generator network to generate new images of faces that look as realistic as possible which are fake. This project can be run in Jupyter Notebook and Google Colab.
