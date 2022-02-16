@@ -2,9 +2,7 @@
 ### CSE 465 Deep Learning (Spring 2020)
 
 
-In this project, here defined and trained a DCGAN on a dataset of faces. The goal is to get a generator network to generate new images of faces that look as realistic as possible which are fake. This project can be run in Jupyter Notebook and Google Colab.
-
-<img src="image/facegan.png" border="1">
+In this project, here defined and trained a DCGAN on a dataset of faces. The goal is to get a generator network which will generate new images of faces that looks like celebrity faces who do not exist.
 
 ### Get the data
 
