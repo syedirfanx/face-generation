@@ -1,4 +1,4 @@
-# Generate fake human faces using Generative Adversarial Network (GAN)
+# Generate fake faces of human using Generative Adversarial Network (GAN)
 ### CSE 465 Deep Learning (Spring 2020)
 
 
