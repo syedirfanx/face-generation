@@ -162,8 +162,3 @@ A fixed `fixed_z` vector is used each epoch to track the visual progress of gene
 
 4. PyTorch Documentation -- [torch.nn](https://pytorch.org/docs/stable/nn.html)
 
----
-
-## Licence
-
-This project is released for academic and research purposes. The CelebA dataset is subject to its own [terms of use](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
