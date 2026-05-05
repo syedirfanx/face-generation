@@ -31,8 +31,7 @@ face-generation/
 |
 |-- image/
     |-- Face/
-        |-- <class_folder>/
-            |-- *.jpg
+        |-- *.jpg
 ```
 
 ---
